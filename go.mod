@@ -2,4 +2,4 @@ module github.com/go-ruby-puppet-resource-api/go-ruby-puppet-resource-api.github
 
 go 1.27.4
 
-require github.com/go-fleettools/landingkit v0.29.0
+require github.com/go-fleettools/landingkit v0.38.0
